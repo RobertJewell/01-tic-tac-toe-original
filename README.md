@@ -13,13 +13,3 @@ https://01-tic-tac-toe-original.vercel.app/
 
 https://github.com/RobertJewell/02-tic-tac-toe-functional
 
-
-#### Is there anything to see here?
-
-Probably not
-
-There are some small tweaks to improve readability, but not many.
-
-## Tech Stack
-
-React
