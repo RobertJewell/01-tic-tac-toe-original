@@ -5,7 +5,11 @@ The tutorial for it can be found here: https://reactjs.org/tutorial/tutorial.htm
 
 This version has no extra features (and hopefully no extra bugs)
 
-### Come with me, to see a slightly nicer version of this:
+## Live version
+
+https://01-tic-tac-toe-original.vercel.app/
+
+## Come with me, to see a slightly nicer version of this:
 
 https://github.com/RobertJewell/02-tic-tac-toe-functional
 
@@ -26,14 +30,6 @@ Yes
 Probably not
 
 There are some small tweaks to improve readability, but not many.
-
-## Deployment
-
-To deploy this project run
-
-```bash
-  yarn start
-```
 
 ## Tech Stack
 
